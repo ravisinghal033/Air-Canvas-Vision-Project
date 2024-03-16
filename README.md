@@ -5,4 +5,4 @@
 <b>Communication Interface<b>:   - Established a communication interface between the hand gesture recognition module and the digital drawing software. This was achieved through APIs or custom protocols.
 <b>User Interface (UI)<b>:   - Developed a user interface that enables users to switch between different drawing tools, colors, and erase functions using specific hand gestures.
 
-![image](https://github.com/ravisinghal033/Air-Canvas-Vision-Project/assets/113414376/66e9e215-839a-4cb9-97a1-0962d8c779a5)
+
